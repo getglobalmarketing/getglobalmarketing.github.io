@@ -454,7 +454,7 @@
             ".image-block": {
               "margin": "auto",
               "& when (@fullWidth)": {
-                "width": "60% !important"
+                "width": "50% !important"
               }
             },
             ".mbr-figure": {
