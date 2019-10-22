@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i"
       }
     ],
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -273,7 +273,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"card\">\n    <h1>GET 6 BOTTLES <font color=\"red\">AT 50% OFF</font></h1>\n  <img src=\"@PROJECT_PATH@/assets/images/b-6-730x682.png\" alt=\"Mobirise\" style=\"width:100%\">\n    <p><strong>Normally <strike><font color=\"red\">$49</font></strike> <font size=\"2\" color=\"grey\">Per Bottle</font></strong></p>\n    <p class=\"price\">Today <font color=\"red\">$24</font> <font size=\"3\" color=\"grey\">Per Bottle</font></p>\n  <p><button>Yes! Upgrade My Offer</button></p>\n    <p>Secure Order Form - 100% Protected and Safe</p>\n    <p><font size=\"2\" color=\"red\">No thanks, I will pass on this HUGE savings realizing I will NEVER have this opportunity again.</font></p> \n</div>",
+          "_customHTML": "<div class=\"card\">\n    <h1>GET 6 BOTTLES <font color=\"red\">AT 50% OFF</font></h1>\n  <img src=\"@PROJECT_PATH@/assets/images/b-6-730x682.png\" alt=\"Mobirise\" style=\"width:100%\">\n    <p><strong>Normally <strike><font color=\"red\">$49</font></strike> <font size=\"2\" color=\"grey\">Per Bottle</font></strong>   <img src=\"@PROJECT_PATH@/assets/images/moneybackguarantee-1500x1500.png\" width=\"60\" alt=\"Mobirise\"></p>\n    <p class=\"price\">Today <font color=\"red\">$24</font> <font size=\"3\" color=\"grey\">Per Bottle</font></p>\n  <p><button>Yes! Upgrade My Offer</button></p>\n    <p>Secure Order Form - 100% Protected and Safe</p>\n    <p><font size=\"2\" color=\"red\">No thanks, I will pass on this HUGE savings realizing I will NEVER have this opportunity again.</font></p> \n</div>",
           "_customCSS": ".card {\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);\n  max-width: 400px;\n  margin: auto;\n  text-align: center;\n  font-family: arial;\n}\n\n.price {\n  color: black;\n  font-size: 26px;\n    font-weight: bold;\n}\n\nh1 { \n background-color: #000;\n  border: 2px solid #DDD;\n  border-bottom: 2px solid #DDD;\n  display: block;\n  padding: 1em 0;\n  text-align: center;\n  width: 100%;\nfont-size: 26px;\ncolor: #ffffff;\n    font-weight: bold;\n}\n\n.card button {\n  border: none;\n  outline: 0;\n  padding: 12px;\n  color: white;\n  background-color: #e60a2b;\n  text-align: center;\n  cursor: pointer;\n  max-width: 300px;\n  font-size: 24px;\n}\n\n.card button:hover {\n  opacity: 0.7;\n}\n",
           "alias": "code-editor",
           "_tags": [
@@ -383,7 +383,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"card\">\n    <h1>GET 6 BOTTLES <font color=\"red\">AT 50% OFF</font></h1>\n  <img src=\"@PROJECT_PATH@/assets/images/b-6-730x682.png\" alt=\"Mobirise\" style=\"width:100%\">\n    <p><strong>Normally <strike><font color=\"red\">$49</font></strike> <font size=\"2\" color=\"grey\">Per Bottle</font></strong></p>\n    <p class=\"price\">Today <font color=\"red\">$24</font> <font size=\"3\" color=\"grey\">Per Bottle</font></p>\n  <p><button>Yes! Upgrade My Offer</button></p>\n    <p>Secure Order Form - 100% Protected and Safe</p>\n    <p><font size=\"2\" color=\"red\">No thanks, I will pass on this HUGE savings realizing I will NEVER have this opportunity again.</font></p> \n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"card\">\n    <h1>GET 6 BOTTLES <font color=\"red\">AT 50% OFF</font></h1>\n  <img src=\"@PROJECT_PATH@/assets/images/b-6-730x682.png\" alt=\"Mobirise\" style=\"width:100%\">\n    <p><strong>Normally <strike><font color=\"red\">$49</font></strike> <font size=\"2\" color=\"grey\">Per Bottle</font></strong>    <img src=\"@PROJECT_PATH@/assets/images/moneybackguarantee-1500x1500.png\" width=\"60\" alt=\"Mobirise\"></p>\n    <p class=\"price\">Today <font color=\"red\">$24</font> <font size=\"3\" color=\"grey\">Per Bottle</font></p>\n  <p><button>Yes! Upgrade My Offer</button></p>\n    <p>Secure Order Form - 100% Protected and Safe</p>\n    <p><font size=\"2\" color=\"red\">No thanks, I will pass on this HUGE savings realizing I will NEVER have this opportunity again.</font></p> \n</div>",
           "_customCSS": "/* Type valid CSS here */\n.card {\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);\n  max-width: 400px;\n  margin: auto;\n  text-align: center;\n  font-family: arial;\n}\n\n.price {\n  color: black;\n  font-size: 26px;\n    font-weight: bold;\n}\n\nh1 { \n background-color: #000;\n  border: 2px solid #DDD;\n  border-bottom: 2px solid #DDD;\n  display: block;\n  padding: 1em 0;\n  text-align: center;\n  width: 100%;\nfont-size: 26px;\ncolor: #ffffff;\n    font-weight: bold;\n}\n\n.card button {\n  border: none;\n  outline: 0;\n  padding: 12px;\n  color: white;\n  background-color: #e60a2b;\n  text-align: center;\n  cursor: pointer;\n  max-width: 300px;\n  font-size: 24px;\n}\n\n.card button:hover {\n  opacity: 0.7;\n}\n",
           "alias": "code-editor",
           "_tags": [
