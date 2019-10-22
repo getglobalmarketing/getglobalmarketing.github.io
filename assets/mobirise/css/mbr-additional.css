@@ -709,291 +709,190 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rFcH4JtnfQ {
+.cid-rFBmztIYP9 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rFcH4JtnfQ P {
+.cid-rFBmztIYP9 P {
   color: #767676;
 }
-.cid-rFcJFpzw4L {
+.cid-rFBmztIYP9 .mbr-text,
+.cid-rFBmztIYP9 .mbr-section-btn {
+  color: #e60a2b;
+}
+.cid-rFBmC9Z8GL {
   background: #ffffff;
 }
-.cid-rFcJFpzw4L .video-block {
+.cid-rFBmC9Z8GL .video-block {
   margin: auto;
   width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rFcJFpzw4L .video-block {
+  .cid-rFBmC9Z8GL .video-block {
     width: 100% !important;
   }
 }
-.cid-rF83mKf5vq {
+.cid-rFBp8QOWZN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/action-athlete-barbell-841130-2000x1333.jpg");
+  background-image: url("../../../assets/images/active-activity-beautiful-2247179-1920x1341.jpg");
 }
-.cid-rF83mKf5vq .media-container-row {
+.cid-rFBp8QOWZN P {
+  color: #767676;
+}
+.cid-rFBp8QOWZN H1 {
+  color: #e60a2b;
+}
+.cid-rFBp8QOWZN .mbr-text,
+.cid-rFBp8QOWZN .mbr-section-btn {
+  color: #232323;
+}
+#custom-html-6 {
+  /* Type valid CSS here */
+}
+#custom-html-6 div {
+  padding: 50px 0;
+  color: #fff;
+}
+#custom-html-3 .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+#custom-html-3 .price {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+}
+#custom-html-3 h1 {
+  background-color: #454f5e;
+  border: 2px solid #DDD;
+  border-bottom: 2px solid #DDD;
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+  width: 100%;
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#custom-html-3 .card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #e60a2b;
+  text-align: center;
+  cursor: pointer;
+  max-width: 300px;
+  font-size: 24px;
+}
+#custom-html-3 .card button:hover {
+  opacity: 0.7;
+}
+#custom-html-7 {
+  /* Type valid CSS here */
+}
+#custom-html-7 div {
+  padding: 50px 0;
+  color: #fff;
+}
+.cid-rFEdLUZJUN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/active-athlete-barbell-2261485-1920x1280.jpg");
+}
+.cid-rFEdLUZJUN .media-container-row {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-rF83mKf5vq .mbr-figure {
+  .cid-rFEdLUZJUN .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rF83mKf5vq .mbr-figure {
+  .cid-rFEdLUZJUN .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rF83mKf5vq .mbr-text {
+  .cid-rFEdLUZJUN .mbr-text {
     text-align: center;
   }
 }
-.cid-rF83mKf5vq H1 {
-  color: #e60a2b;
-  text-align: left;
-}
-.cid-rFbjJNOVqi {
-  padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rFbjJNOVqi P {
-  color: #767676;
-}
-.cid-rFbjJNOVqi .mbr-text,
-.cid-rFbjJNOVqi .mbr-section-btn {
-  color: #e60a2b;
-}
-.cid-rF89a0IstL {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rF89a0IstL .counter-container {
-  color: #767676;
-}
-.cid-rF89a0IstL .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rF89a0IstL .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rF89a0IstL .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #e60a2b;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
-}
-.cid-rF89a0IstL .mbr-text {
+.cid-rFEdLUZJUN .mbr-text,
+.cid-rFEdLUZJUN .mbr-section-btn {
   color: #232323;
 }
-.cid-rF8boPAHHn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/adobestock-187864345-2000x1334.jpg");
+#custom-html-a {
+  /* Type valid CSS here */
 }
-.cid-rF8boPAHHn H2 {
-  color: #232323;
+#custom-html-a div {
+  padding: 80px 0;
+  color: #ffff;
   text-align: center;
 }
-.cid-rF8boPAHHn H3 {
-  color: #e60a2b;
-  text-align: center;
+#custom-html-a p {
+  font-size: 18px;
+  color: #000;
+  font-alignment: center;
 }
-.cid-rF8boPAHHn .mbr-text,
-.cid-rF8boPAHHn .mbr-section-btn {
-  color: #232323;
-  text-align: center;
+#custom-html-b {
+  /* Type valid CSS here */
 }
-.cid-rF8cJQC0L5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rF8cJQC0L5 .mbr-text,
-.cid-rF8cJQC0L5 blockquote {
-  color: #767676;
-}
-.cid-rF8cJQC0L5 .mbr-text {
-  color: #232323;
-}
-.cid-rF8lagoN6H {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #e60a2b;
-}
-.cid-rF8lagoN6H P {
-  color: #767676;
-}
-.cid-rF8lagoN6H H1 {
-  color: #ffffff;
-}
-.cid-rF8lagoN6H .mbr-text,
-.cid-rF8lagoN6H .mbr-section-btn {
-  color: #232323;
-}
-.cid-rFb69wP8vi {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rFb69wP8vi .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rFb69wP8vi .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rFb69wP8vi .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rFb69wP8vi H1 {
-  color: #e60a2b;
-}
-.cid-rFb69wP8vi .mbr-text,
-.cid-rFb69wP8vi .mbr-section-btn {
-  color: #232323;
-}
-.cid-rF84c2oxu3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rF84c2oxu3 .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rF84c2oxu3 .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-rF84c2oxu3 .mbr-text {
-  color: #767676;
-}
-.cid-rF84c2oxu3 .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-rF84c2oxu3 .mbr-author-name {
-  color: #767676;
-}
-.cid-rF84c2oxu3 .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-rF84c2oxu3 .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-rF84c2oxu3 .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rF84c2oxu3 .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rF84c2oxu3 .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-rF84c2oxu3 .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
-.cid-rF84c2oxu3 H2 {
-  color: #e60a2b;
-}
-.cid-rFb8I9WvrZ {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #e60a2b;
-}
-.cid-rFb8I9WvrZ P {
-  color: #767676;
-}
-.cid-rFb8I9WvrZ H1 {
-  color: #ffffff;
-}
-.cid-rFb8I9WvrZ .mbr-text,
-.cid-rFb8I9WvrZ .mbr-section-btn {
-  color: #232323;
-}
-.cid-rFbcCMCXEa {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 0px;
-}
-.cid-rFbcCMCXEa .image-block {
+#custom-html-b .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
   margin: auto;
+  text-align: center;
+  font-family: arial;
 }
-.cid-rFbcCMCXEa figcaption {
-  position: relative;
+#custom-html-b .price {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
 }
-.cid-rFbcCMCXEa figcaption div {
-  position: absolute;
-  bottom: 0;
+#custom-html-b h1 {
+  background-color: #454f5e;
+  border: 2px solid #DDD;
+  border-bottom: 2px solid #DDD;
+  display: block;
+  padding: 1em 0;
+  text-align: center;
   width: 100%;
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: bold;
 }
-@media (max-width: 768px) {
-  .cid-rFbcCMCXEa .image-block {
-    width: 100% !important;
-  }
+#custom-html-b .card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #e60a2b;
+  text-align: center;
+  cursor: pointer;
+  max-width: 300px;
+  font-size: 24px;
 }
-.cid-rFbcUZu9nP {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+#custom-html-b .card button:hover {
+  opacity: 0.7;
 }
-.cid-rFbcUZu9nP P {
-  color: #767676;
+#custom-html-c {
+  /* Type valid CSS here */
 }
-.cid-rFbcUZu9nP .mbr-text,
-.cid-rFbcUZu9nP .mbr-section-btn {
-  text-align: left;
-  color: #232323;
+#custom-html-c div {
+  padding: 80px 0;
+  color: #fff;
+  text-align: center;
 }
-.cid-rFbcUZu9nP H1 {
-  color: #e60a2b;
-}
-.cid-rFbmltzQVQ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #465052;
+#custom-html-c p {
+  font-size: 18px;
+  color: #000;
 }
