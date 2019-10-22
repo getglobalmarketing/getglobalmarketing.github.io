@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFBmztIYP9 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rFBmztIYP9 P {
@@ -721,38 +721,149 @@ section.lazy-placeholder:after {
 .cid-rFBmztIYP9 .mbr-section-btn {
   color: #e60a2b;
 }
-.cid-rFBmC9Z8GL {
+.cid-rFEP3UW3Wy {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.cid-rFBmC9Z8GL .video-block {
+.cid-rFEP3UW3Wy .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rFBmC9Z8GL .video-block {
+  .cid-rFEP3UW3Wy .video-block {
     width: 100% !important;
   }
 }
-.cid-rFBp8QOWZN {
+.cid-rFEPuS5P7J {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/active-activity-beautiful-2247179-1920x1341.jpg");
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rFEPuS5P7J .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rFEPuS5P7J .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rFEPuS5P7J .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rFEPuS5P7J H1 {
+  color: #232323;
+}
+.cid-rFEPuS5P7J .mbr-text,
+.cid-rFEPuS5P7J .mbr-section-btn {
+  color: #232323;
+}
+.cid-rFEPuS5P7J H3 {
+  color: #e60a2b;
+}
+#custom-html-f {
+  /* Type valid CSS here */
+}
+#custom-html-f .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+#custom-html-f .price {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+}
+#custom-html-f h1 {
+  background-color: #000;
+  border: 2px solid #DDD;
+  border-bottom: 2px solid #DDD;
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+  width: 100%;
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#custom-html-f .card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #e60a2b;
+  text-align: center;
+  cursor: pointer;
+  max-width: 300px;
+  font-size: 24px;
+}
+#custom-html-f .card button:hover {
+  opacity: 0.7;
+}
+#custom-html-m {
+  /* Type valid CSS here */
+}
+#custom-html-m div {
+  padding: 30px 0;
+  color: #fff;
+  text-align: center;
+}
+#custom-html-m p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-h {
+  /* Type valid CSS here */
+}
+#custom-html-h div {
+  padding: 50;
+  color: #FFF;
+  text-align: center;
+}
+#custom-html-h p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-rFBp8QOWZN {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-rFBp8QOWZN P {
   color: #767676;
 }
 .cid-rFBp8QOWZN H1 {
-  color: #e60a2b;
+  color: #ffffff;
 }
 .cid-rFBp8QOWZN .mbr-text,
 .cid-rFBp8QOWZN .mbr-section-btn {
   color: #232323;
 }
+.cid-rFF2vGRjtD {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rFF2vGRjtD .mbr-text,
+.cid-rFF2vGRjtD blockquote {
+  color: #767676;
+}
+.cid-rFF2vGRjtD .mbr-text {
+  color: #232323;
+}
+.cid-rFF2vGRjtD .mbr-text P {
+  text-align: center;
+}
 #custom-html-6 {
   /* Type valid CSS here */
 }
 #custom-html-6 div {
-  padding: 50px 0;
+  padding: 20px 0;
   color: #fff;
 }
 #custom-html-3 .card {
@@ -768,7 +879,7 @@ section.lazy-placeholder:after {
   font-weight: bold;
 }
 #custom-html-3 h1 {
-  background-color: #454f5e;
+  background-color: #000;
   border: 2px solid #DDD;
   border-bottom: 2px solid #DDD;
   display: block;
@@ -797,13 +908,13 @@ section.lazy-placeholder:after {
   /* Type valid CSS here */
 }
 #custom-html-7 div {
-  padding: 50px 0;
+  padding: 20px 0;
   color: #fff;
 }
 .cid-rFEdLUZJUN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/active-athlete-barbell-2261485-1920x1280.jpg");
+  background-color: #ffffff;
 }
 .cid-rFEdLUZJUN .media-container-row {
   flex-direction: row-reverse;
@@ -835,13 +946,25 @@ section.lazy-placeholder:after {
 }
 #custom-html-a div {
   padding: 80px 0;
-  color: #ffff;
+  background-color: #000;
   text-align: center;
 }
 #custom-html-a p {
   font-size: 18px;
-  color: #000;
+  color: #fff;
   font-alignment: center;
+}
+#custom-html-l {
+  /* Type valid CSS here */
+}
+#custom-html-l div {
+  padding: 20px 0;
+  color: #fff;
+  text-align: center;
+}
+#custom-html-l p {
+  font-size: 60px;
+  color: #777;
 }
 #custom-html-b {
   /* Type valid CSS here */
@@ -859,7 +982,7 @@ section.lazy-placeholder:after {
   font-weight: bold;
 }
 #custom-html-b h1 {
-  background-color: #454f5e;
+  background-color: #000;
   border: 2px solid #DDD;
   border-bottom: 2px solid #DDD;
   display: block;
@@ -884,15 +1007,50 @@ section.lazy-placeholder:after {
 #custom-html-b .card button:hover {
   opacity: 0.7;
 }
+#custom-html-k {
+  /* Type valid CSS here */
+}
+#custom-html-k div {
+  padding: 20px 0;
+  color: #fff;
+  text-align: center;
+}
+#custom-html-k p {
+  font-size: 60px;
+  color: #777;
+}
 #custom-html-c {
   /* Type valid CSS here */
 }
 #custom-html-c div {
   padding: 80px 0;
-  color: #fff;
+  background-color: #000;
   text-align: center;
 }
 #custom-html-c p {
   font-size: 18px;
-  color: #000;
+  color: #fff;
+}
+.cid-rFF7y9iLdv {
+  background: #ffffff;
+}
+.cid-rFF7y9iLdv .image-block {
+  margin: auto;
+  width: 60% !important;
+}
+.cid-rFF7y9iLdv .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rFF7y9iLdv figcaption {
+  position: relative;
+}
+.cid-rFF7y9iLdv figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rFF7y9iLdv .image-block {
+    width: 100% !important;
+  }
 }
