@@ -11,19 +11,19 @@ body {
 }
 .display-1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 4.25rem;
+  font-size: 5rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 8rem;
 }
 .display-2 {
   font-family: 'Oswald', sans-serif;
-  font-size: 3rem;
+  font-size: 4rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 6.4rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -35,11 +35,11 @@ body {
 }
 .display-5 {
   font-family: 'Oswald', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Open Sans', sans-serif;
@@ -56,14 +56,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -71,9 +71,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -648,7 +648,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rFBmztIYP9 {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -661,8 +661,8 @@ section.lazy-placeholder:after {
 }
 .cid-rFEP3UW3Wy {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-rFEP3UW3Wy .video-block {
   margin: auto;
@@ -676,7 +676,7 @@ section.lazy-placeholder:after {
   /* Type valid CSS here */
 }
 #custom-html-m div {
-  padding: 30px 0;
+  padding: 10px 0;
   color: #fff;
   text-align: center;
 }
@@ -699,7 +699,7 @@ section.lazy-placeholder:after {
 .cid-rFBp8QOWZN {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #010427;
 }
 .cid-rFBp8QOWZN P {
   color: #767676;
@@ -735,7 +735,7 @@ section.lazy-placeholder:after {
 }
 #custom-html-3 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 400px;
+  max-width: 500px;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -746,7 +746,7 @@ section.lazy-placeholder:after {
   font-weight: bold;
 }
 #custom-html-3 h1 {
-  background-color: #000;
+  background-color: #010427;
   border: 2px solid #DDD;
   border-bottom: 2px solid #DDD;
   display: block;
@@ -813,11 +813,11 @@ section.lazy-placeholder:after {
 }
 #custom-html-a div {
   padding: 80px 0;
-  background-color: #000;
+  background-color: #010427;
   text-align: center;
 }
 #custom-html-a p {
-  font-size: 16px;
+  font-size: 18px;
   color: #fff;
   font-alignment: center;
   fontface: oswald;
@@ -839,7 +839,7 @@ section.lazy-placeholder:after {
 }
 #custom-html-b .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 400px;
+  max-width: 500px;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -850,7 +850,7 @@ section.lazy-placeholder:after {
   font-weight: bold;
 }
 #custom-html-b h1 {
-  background-color: #000;
+  background-color: #010427;
   border: 2px solid #DDD;
   border-bottom: 2px solid #DDD;
   display: block;
@@ -892,7 +892,7 @@ section.lazy-placeholder:after {
 }
 #custom-html-c div {
   padding: 80px 0;
-  background-color: #000;
+  background-color: #010427;
   text-align: center;
 }
 #custom-html-c p {
@@ -902,8 +902,8 @@ section.lazy-placeholder:after {
 }
 .cid-rFFGfEQUHV {
   background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
 }
 .cid-rFFGfEQUHV .image-block {
   margin: auto;
@@ -923,7 +923,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFFEqIqn0f {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rFFEqIqn0f .mbr-section-subtitle {
@@ -933,7 +933,7 @@ section.lazy-placeholder:after {
   color: #e60a2b;
 }
 .cid-rFFF5E1fVf {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
