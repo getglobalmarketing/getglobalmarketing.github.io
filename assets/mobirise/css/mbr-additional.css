@@ -711,20 +711,17 @@ section.lazy-placeholder:after {
 .cid-rFBp8QOWZN .mbr-section-btn {
   color: #232323;
 }
-.cid-rFF2vGRjtD {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rFHE1qXULV {
+  padding-top: 135px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/adobestock-195881853-1-2000x1335.jpg");
 }
-.cid-rFF2vGRjtD .mbr-text,
-.cid-rFF2vGRjtD blockquote {
-  color: #767676;
-}
-.cid-rFF2vGRjtD .mbr-text {
+.cid-rFHE1qXULV H3 {
   color: #232323;
 }
-.cid-rFF2vGRjtD .mbr-text P {
-  text-align: center;
+.cid-rFHE1qXULV .mbr-text,
+.cid-rFHE1qXULV .mbr-section-btn {
+  color: #010427;
 }
 #custom-html-6 {
   /* Type valid CSS here */
