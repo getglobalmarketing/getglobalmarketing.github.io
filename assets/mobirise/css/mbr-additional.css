@@ -822,6 +822,21 @@ section.lazy-placeholder:after {
   font-alignment: center;
   fontface: oswald;
 }
+#custom-html-a .triangle-isosceles:after {
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  /* value = - border-top-width - border-bottom-width */
+  left: 50px;
+  /* controls horizontal position */
+  border-width: 15px 15px 0;
+  /* vary these values to change the angle of the vertex */
+  border-style: solid;
+  border-color: #f3961c transparent;
+  /* reduce the damage in FF3.0 */
+  display: block;
+  width: 0;
+}
 #custom-html-l {
   /* Type valid CSS here */
 }
