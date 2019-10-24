@@ -722,6 +722,7 @@ section.lazy-placeholder:after {
 .cid-rFHE1qXULV .mbr-text,
 .cid-rFHE1qXULV .mbr-section-btn {
   color: #010427;
+  lineheight: 11px;
 }
 #custom-html-6 {
   /* Type valid CSS here */
@@ -736,23 +737,42 @@ section.lazy-placeholder:after {
   margin: auto;
   text-align: center;
   font-family: arial;
+  padding: 20px;
 }
 #custom-html-3 .price {
   color: black;
-  font-size: 26px;
+  font-size: 60px;
   font-weight: bold;
+  text-align: right;
+  padding-right: 8px;
 }
 #custom-html-3 h1 {
-  background-color: #010427;
-  border: 2px solid #DDD;
-  border-bottom: 2px solid #DDD;
+  background-color: #fff;
   display: block;
   padding: 1em 0;
   text-align: center;
   width: 100%;
-  font-size: 26px;
-  color: #ffffff;
+  font-size: 40px;
+  color: grey;
   font-weight: bold;
+}
+#custom-html-3 h5 {
+  padding: .5em;
+  width: 120px;
+  font-size: 16px;
+  color: white;
+}
+#custom-html-3 h4 {
+  text-align: left;
+}
+#custom-html-3 h6 {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: gray;
+  border-bottom-color: gray;
+  top-padding: 10px;
+  bottom-padding: 10px;
+  font-size: 25px;
 }
 #custom-html-3 .card button {
   border: none;
@@ -764,9 +784,14 @@ section.lazy-placeholder:after {
   cursor: pointer;
   max-width: 300px;
   font-size: 24px;
+  font-face: oswald;
 }
 #custom-html-3 .card button:hover {
   opacity: 0.7;
+}
+#custom-html-3 .column {
+  float: right;
+  width: 50%;
 }
 #custom-html-7 {
   /* Type valid CSS here */
@@ -796,43 +821,45 @@ section.lazy-placeholder:after {
     padding-bottom: 3rem;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .cid-rFEdLUZJUN .mbr-text {
-    text-align: center;
+    text-align: left;
   }
 }
 .cid-rFEdLUZJUN .mbr-text,
 .cid-rFEdLUZJUN .mbr-section-btn {
   color: #232323;
 }
+.cid-rFEdLUZJUN div {
+  padding: 10px 0;
+  color: #777;
+  text-align: center;
+  padding-left: 10px;
+  max-width: 100%;
+}
+.cid-rFEdLUZJUN p {
+  font-size: 16px;
+  color: #000;
+  text-align: left;
+}
+.cid-rFEdLUZJUN .white-text-with-blue-shadow {
+  text-shadow: 1px 1px 2px white, 0 0 1em black, 0 0 0.2em black;
+  color: white;
+  font: 1.6em Oswald, serif;
+}
 #custom-html-a {
   /* Type valid CSS here */
 }
 #custom-html-a div {
-  padding: 80px 0;
+  padding: 30px 0;
   background-color: #010427;
   text-align: center;
 }
 #custom-html-a p {
-  font-size: 18px;
+  font-size: 16px;
   color: #fff;
   font-alignment: center;
-  fontface: oswald;
-}
-#custom-html-a .triangle-isosceles:after {
-  content: "";
-  position: absolute;
-  bottom: -30px;
-  /* value = - border-top-width - border-bottom-width */
-  left: 50px;
-  /* controls horizontal position */
-  border-width: 15px 15px 0;
-  /* vary these values to change the angle of the vertex */
-  border-style: solid;
-  border-color: #f3961c transparent;
-  /* reduce the damage in FF3.0 */
-  display: block;
-  width: 0;
+  fontface: sans serif;
 }
 #custom-html-l {
   /* Type valid CSS here */
@@ -846,34 +873,53 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
-#custom-html-b {
+#Pricing-Block {
   /* Type valid CSS here */
 }
-#custom-html-b .card {
+#Pricing-Block .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 500px;
   margin: auto;
   text-align: center;
   font-family: arial;
+  padding: 20px;
 }
-#custom-html-b .price {
+#Pricing-Block .price {
   color: black;
-  font-size: 26px;
+  font-size: 60px;
   font-weight: bold;
+  text-align: right;
+  padding-right: 8px;
 }
-#custom-html-b h1 {
-  background-color: #010427;
-  border: 2px solid #DDD;
-  border-bottom: 2px solid #DDD;
+#Pricing-Block h1 {
+  background-color: #fff;
   display: block;
   padding: 1em 0;
   text-align: center;
   width: 100%;
-  font-size: 26px;
-  color: #ffffff;
+  font-size: 40px;
+  color: grey;
   font-weight: bold;
 }
-#custom-html-b .card button {
+#Pricing-Block h5 {
+  padding: .5em;
+  width: 120px;
+  font-size: 16px;
+  color: white;
+}
+#Pricing-Block h4 {
+  text-align: left;
+}
+#Pricing-Block h6 {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: gray;
+  border-bottom-color: gray;
+  top-padding: 10px;
+  bottom-padding: 10px;
+  font-size: 25px;
+}
+#Pricing-Block .card button {
   border: none;
   outline: 0;
   padding: 12px;
@@ -883,9 +929,14 @@ section.lazy-placeholder:after {
   cursor: pointer;
   max-width: 300px;
   font-size: 24px;
+  font-face: oswald;
 }
-#custom-html-b .card button:hover {
+#Pricing-Block .card button:hover {
   opacity: 0.7;
+}
+#Pricing-Block .column {
+  float: right;
+  width: 50%;
 }
 #custom-html-k {
   /* Type valid CSS here */
@@ -903,7 +954,7 @@ section.lazy-placeholder:after {
   /* Type valid CSS here */
 }
 #custom-html-c div {
-  padding: 80px 0;
+  padding: 30px 0;
   background-color: #010427;
   text-align: center;
 }
@@ -911,6 +962,7 @@ section.lazy-placeholder:after {
   font-size: 16px;
   color: #fff;
   fontface: "open sans";
+  face: sans serif;
 }
 .cid-rFFGfEQUHV {
   background: #ffffff;
@@ -946,7 +998,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFFF5E1fVf {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rFFF5E1fVf .mbr-text,
@@ -955,4 +1007,5 @@ section.lazy-placeholder:after {
 }
 .cid-rFFF5E1fVf .mbr-text {
   color: #232323;
+  line-height: 18px;
 }
